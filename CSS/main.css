@@ -1,0 +1,42 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+Imagenes{
+    max-width: 100%;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-arriba{
+    margin-top: 30px;
+}
+#principal{
+    width: 50%;
+    float: none;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+.pacifico{
+    font-family: 'pacifico';
+}
+.grande{
+    font-size: 2em;  
+}
+.azul{
+    color: #001EBA;
+}
+.no-lista{
+    margin: 0px;
+    padding: 0px;
+}
+.no-lista li{
+    list-style-type: none;
+}
+.espacio-derecha{
+    margin-right: 1em;
+
+}
+a{
+    color: #001EBA;
+}
